@@ -26,7 +26,7 @@ function creat_table($t){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>6014421006-ไ04</title>
+    <title>6014421006-w04</title>
 </head>
 <body>
     <?php
