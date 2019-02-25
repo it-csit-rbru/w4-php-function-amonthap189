@@ -38,7 +38,7 @@ function creat_table($t){
   </head>
   <body>
   <?php
-        $url = "http://stu.rbru.ac.th/~s6014421001";
+        $url = "http://stu.rbru.ac.th/~s6014421006";
         $txt = "Click Here";
         echo "<a href=\"$url\">$txt</a>";
     ?>
